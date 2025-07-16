@@ -94,3 +94,5 @@ public function delete_by_memberid(int $memberid ) {
      $stmt->execute(); 
     }
 }
+
+//haruharuharuharu
